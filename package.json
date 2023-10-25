@@ -1,5 +1,5 @@
 {
-    "name": "orm-e-commerce",
+    "name": "e-commerce-be",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -17,7 +17,7 @@
     "license": "ISC",
     "homepage": "https://github.com/JBowen96/E-commerce-BE",
     "devDependencies": {
-        "nodemon": "^2.0.4"
+        "nodemon": "^2.0.3"
     },
     "dependencies": {
         "dotenv": "^8.2.0",
